@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-white;
+}
+
+h1 {
+  @apply text-4xl font-bold text-center py-6;
+}
+
+canvas {
+  cursor: grab;
+}
+
+.mesh {
+  transition: transform 0.3s;
+}

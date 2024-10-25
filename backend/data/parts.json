@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Barrel A", "type": "Barrel", "color": "black" },
+  { "id": 2, "name": "Barrel B", "type": "Barrel", "color": "silver" },
+  { "id": 3, "name": "Stock A", "type": "Stock", "color": "wooden" },
+  { "id": 4, "name": "Stock B", "type": "Stock", "color": "polymer" },
+  { "id": 5, "name": "Receiver A", "type": "Receiver", "color": "black" },
+  { "id": 6, "name": "Receiver B", "type": "Receiver", "color": "tan" }
+]
